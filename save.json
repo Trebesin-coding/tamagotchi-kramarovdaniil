@@ -1,0 +1,16 @@
+{
+    "name": "Adam",
+    "hp": 100,
+    "energy": 100,
+    "max_energy": 100,
+    "alive": true,
+    "money": 100,
+    "damage": 10,
+    "defence": 10,
+    "luck": 5,
+    "ult_charge": 0,
+    "ult_ready": false,
+    "defending": false,
+    "items": [],
+    "defeated_bosses": []
+}
